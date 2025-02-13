@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **React, Node, Mongoose**
 
+- 👨‍💻 All of my projects are available at [http://www.cesarpreza.com/](http://www.cesarpreza.com/)
+
 - 📫 How to reach me **cpreza93@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -17,5 +19,3 @@
 <p><a href="https://www.buymeacoffee.com/cpreza"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cpreza" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cpreza24&show_icons=true&locale=en&layout=compact" alt="cpreza24" /></p>
-
--->
