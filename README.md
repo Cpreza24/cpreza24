@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cesar Preza</h1>
 <h3 align="center">A passionate full-stack software engineer from Los Angeles, California</h3>
 
-- 🌱 I’m currently learning **React, Node, Mongoose**
+- 🌱 I’m currently learning **Python, Django, SQL**
 
 - 👨‍💻 Portfolio Work in Progress [http://www.cesarpreza.com/](http://www.cesarpreza.com/)
 
