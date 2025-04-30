@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Python, Django, SQL**
 
-- 👨‍💻 Portfolio Work in Progress [http://www.cesarpreza.com/](http://www.cesarpreza.com/)
-
 - 📫 How to reach me **cpreza93@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
