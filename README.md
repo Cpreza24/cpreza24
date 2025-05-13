@@ -6,7 +6,7 @@ I'm a Full Stack Software Engineer
 
 * 🌍  I'm based in Los Angeles
 * ✉️  You can contact me at [cpreza93@yahoo.com](mailto:cpreza93@yahoo.com)
-* 🧠  I'm learning Python, Django
+* 🧠  I'm learning Python, Django, SQL
 
 ### Skills
 
