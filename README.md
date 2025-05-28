@@ -1,4 +1,4 @@
-Hi 👋 My name is Cesar Preza
+Hi 👋 I'm Cesar Preza
 ============================
 
 I'm a Full Stack Software Engineer
