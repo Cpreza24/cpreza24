@@ -5,7 +5,7 @@ I'm a Full Stack Software Engineer
 ----------------------------------
 
 * 🌍  I'm based in Los Angeles
-* 🕸   Checkout my Portfolio at [cesarpreza.com](cesarpreza.com)
+* 🕸   Checkout my Portfolio at [here](https://cesarpreza.com/)
 * ✉️  You can contact me at [cpreza93@yahoo.com](mailto:cpreza93@yahoo.com)
 * 🧠  I'm learning Python, Django, SQL
 
