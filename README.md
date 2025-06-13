@@ -4,9 +4,10 @@ Hi 👋 I'm Cesar Preza
 I'm a Full Stack Software Engineer
 ----------------------------------
 
-* 🌍  I'm based in Los Angeles
-* ✉️  You can contact me at [cpreza93@yahoo.com](mailto:cpreza93@yahoo.com)
-* 🧠  I'm learning Python, Django, SQL
+* 🌍  I'm based in Los Angeles
+* 🕸   Checkout my Portfolio at [cesarpreza.com](cesarpreza.com)
+* ✉️  You can contact me at [cpreza93@yahoo.com](mailto:cpreza93@yahoo.com)
+* 🧠  I'm learning Python, Django, SQL
 
 ### Skills
 
