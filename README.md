@@ -8,7 +8,7 @@ I'm a Full Stack Software Engineer
 * 🕸   Checkout my Portfolio at [here](https://cesarpreza.com/)
 * ✉️  You can contact me at [cpreza93@yahoo.com](mailto:cpreza93@yahoo.com)
 * 🧠  I'm learning Python, Django, SQL
-* 💀 I'm currently working on Raydex - An app for Radiologic Peofessionals
+* 💀 I'm currently working on Raydex - An app for Radiologic Professionals
 
 ### Skills
 
